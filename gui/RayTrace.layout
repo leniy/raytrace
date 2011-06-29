@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="GUIFrame.h" open="0" top="0" tabpos="0">
+		<Cursor position="3196" topLine="80" />
+	</File>
+	<File name="guiMain.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1590" topLine="36" />
+	</File>
+	<File name="guiMain.h" open="1" top="0" tabpos="2">
+		<Cursor position="3098" topLine="88" />
+	</File>
+</CodeBlocks_layout_file>
