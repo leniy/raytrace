@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1285316254 source:c:\users\toshiba\desktop\console\main.cpp
+	<iostream>
+	<stdio.h>
+
+1288154268 source:c:\users\toshiba\desktop\opt_design\console\console.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<cmath>
+	"console.h"
+
+1288089438 c:\users\toshiba\desktop\opt_design\console\console.h
+
