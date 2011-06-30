@@ -1,11 +1,11 @@
 /***************************************************************
  * Name:      guiMain.cpp
  * Purpose:   光线追踪程序 GUI版本 组号012，qianwei
- * Author:    Leniy (m@leniy.info)
+ * Author:    Leniy (qianweizju@gmail.com)
  * Created:   2010-09-21
  * Modify:    2010-10-26
  * Version:   0.5
- * Copyright: Leniy (http://leniy.info)
+ * Copyright: Leniy
  * License:
  **************************************************************/
 
@@ -85,11 +85,11 @@ void guiFrame::OnAbout(wxCommandEvent &event)
 /***************************************************************\n\
  * Name:      光线追踪BETA\n\
  * Purpose:   光线追踪程序 GUI版本 组号012，qianwei\n\
- * Author:    Leniy (m@leniy.info)\n\
+ * Author:    Leniy ((qianweizju@gmail.com)\n\
  * Created:   2010-09-21\n\
  * Modify:    2010-10-26\n\
  * Version:   0.5\n\
- * Copyright: Leniy (http://leniy.info)\n\
+ * Copyright: Leniy\n\
  * License:\n\
  **************************************************************/\n\
 \n\
